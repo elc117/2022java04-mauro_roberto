@@ -1,3 +1,7 @@
+/*
+    Sugestão de derivadas: crie Verdura ou Legume
+*/
+
 public class Vegetal {
     protected String    Cor;
     protected Bool      Comestivel;
